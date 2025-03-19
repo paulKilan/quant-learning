@@ -6,3 +6,5 @@
 .jsonl.gz
 .jsonl.gz.part
 .jsonl.gz.part.tmp
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/*
